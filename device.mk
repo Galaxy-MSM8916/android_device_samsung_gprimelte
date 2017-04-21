@@ -22,8 +22,3 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/media/media_codecs_8939.xml:system/etc/media_codecs_8939.xml \
 	$(LOCAL_PATH)/media/media_codecs.xml:system/etc/media_codecs.xml \
 	$(LOCAL_PATH)/media/media_profiles.xml:system/etc/media_profiles.xml
-
-# Copy baseband firmware
-$(call inherit-product-if-exists, vendor/samsung/radio/G530T1UVS2AQA2/baseband.mk)
-$(call inherit-product-if-exists, vendor/samsung/radio/G530TUVS2AQA2/baseband.mk)
-$(call inherit-product-if-exists, vendor/samsung/radio/G530WVLS2AQB2/baseband.mk)
