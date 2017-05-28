@@ -1,5 +1,14 @@
 # Samsung Package Version G530WVLS2AQB2_G530WOYA2AQB2_G530WVLS2AQB2 (unless otherwise specified and/or tagged)
 
+# ACDBs - G530PVPU1API2_G530PSPT1API2_SPR
+etc/Bluetooth_cal.acdb:blobs/spr/etc/Bluetooth_cal.acdb|f3a0384d5572291f9ab31bc33f341924
+etc/General_cal.acdb:blobs/spr/etc/General_cal.acdb|647ce56bee67e49c48ca31ce0c355771
+etc/Global_cal.acdb:blobs/spr/etc/Global_cal.acdb|cf3c13f98ba32bbd032d64278c69c50a
+etc/Handset_cal.acdb:blobs/spr/etc/Handset_cal.acdb|0012464599f6a2bb124d6c54238021d5
+etc/Hdmi_cal.acdb:blobs/spr/etc/Hdmi_cal.acdb|fd0352b41f724b0e104d7e6705c24dbb
+etc/Headset_cal.acdb:blobs/spr/etc/Headset_cal.acdb|cbdd27f9209cb7483107b2b21309aa7e
+etc/Speaker_cal.acdb:blobs/spr/etc/Speaker_cal.acdb|6534e001af235f9f705b477554ea45d8
+
 # ACDBs
 etc/Bluetooth_cal.acdb
 etc/General_cal.acdb
@@ -90,6 +99,10 @@ etc/firmware/nfc_test.bin
 etc/sec_s3fwrn5_rfreg.bin
 lib/hw/nfc_nci.msm8916.so
 vendor/firmware/sec_s3fwrn5_firmware.bin
+
+
+# RIL - G530PVPU1API2_G530PSPT1API2_SPR
+lib/libsec-ril:blobs/spr/lib/libsec-ril.so|b9ccb6c4653a50d22b3093e0ebe33164
 
 # RIL
 lib/libsec-ril.so
