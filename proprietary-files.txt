@@ -80,8 +80,6 @@ vendor/lib/libmmcamera_lsi_s5k5e3yx_eeprom.so
 vendor/lib/libmmcamera_m24128s_eeprom.so
 vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so
 vendor/lib/libmmcamera_s5k4h5yb.so
-vendor/lib/libmmcamera_s5k4h5yb.so
-vendor/lib/libmmcamera_s5k5e3yx.so
 vendor/lib/libmmcamera_s5k5e3yx.so
 vendor/lib/libmmcamera_silicon_sr544_eeprom.so
 vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so
@@ -99,7 +97,6 @@ etc/firmware/nfc_test.bin
 etc/sec_s3fwrn5_rfreg.bin
 lib/hw/nfc_nci.msm8916.so
 vendor/firmware/sec_s3fwrn5_firmware.bin
-
 
 # RIL - G530PVPU1API2_G530PSPT1API2_SPR
 lib/libsec-ril:blobs/spr/lib/libsec-ril.so|b9ccb6c4653a50d22b3093e0ebe33164
