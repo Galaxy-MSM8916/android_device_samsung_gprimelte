@@ -6,9 +6,6 @@ LOCAL_PATH := device/samsung/gprimelte
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := gprimelte,gprimeltecan,gprimeltetmo,gprimeltemtr,gprimeltevl
 
-# Init
-TARGET_UNIFIED_DEVICE := true
-
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_canopen_defconfig
 
