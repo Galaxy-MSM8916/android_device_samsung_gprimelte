@@ -88,6 +88,20 @@ etc/sec_s3fwrn5_rfreg.bin
 lib/hw/nfc_nci.msm8916.so
 vendor/firmware/sec_s3fwrn5_firmware.bin
 
+# Qualcomm framework
+vendor/lib/libdiag.so
+vendor/lib/libdsutils.so
+vendor/lib/libidl.so
+vendor/lib/libqcci_legacy.so
+vendor/lib/libqmi_cci.so
+vendor/lib/libqmi_client_qmux.so
+vendor/lib/libqmi_common_so.so
+vendor/lib/libqmi_csi.so
+vendor/lib/libqmi_encdec.so
+vendor/lib/libqmiservices.so
+vendor/lib/libqmi.so
+vendor/lib/lib-sec-disp.so
+
 # RIL
 bin/rild
 lib/libril.so
