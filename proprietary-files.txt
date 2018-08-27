@@ -85,7 +85,7 @@ vendor/lib/libqomx_jpegenc.so
 # NFC
 etc/firmware/nfc_test.bin
 etc/sec_s3fwrn5_rfreg.bin
-lib/hw/nfc_nci.msm8916.so
+lib/hw/nfc_nci.msm8916.so:vendor/lib/hw/nfc_nci.vendor.msm8916.so
 vendor/firmware/sec_s3fwrn5_firmware.bin
 
 # Qualcomm framework
