@@ -11,7 +11,7 @@ etc/Speaker_cal.acdb
 
 # Sensors
 etc/calib_SI_matrix_data_file.dat
-lib/hw/sensors.msm8916.so
+lib/hw/sensors.msm8916.so:lib/hw/sensors.vendor.msm8916.so
 lib/libalgobsx.so
 	
 # Camera
