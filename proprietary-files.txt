@@ -102,5 +102,5 @@ vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
 vendor/lib/lib-sec-disp.so
 
-# RIL - A300FUXXU1CQF1_A300FUXXU1CQD1_XEC
-lib/libsec-ril.so|1c02d1c3ff89b2da9194fa1d1fc099ff
+# RIL
+lib/libsec-ril.so|82692ccca1e5c13a222fe502d4d699ca
